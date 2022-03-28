@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "home": "https://inga888.github.io//react-shop-simple",
+  "homepage": "https://inga888.github.io/react-shop-simple",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
